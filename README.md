@@ -1,8 +1,8 @@
 <!-- ============================================================
-  Profile README for github.com/aimallkhann/aimallkhann
+  Profile README for github.com/aiimallkhann/aiimallkhann
   Everything below is generated live: each image is fetched fresh
   from a service (or from your own GitHub Action) when the page loads.
-  Find/replace "aimallkhann" if your GitHub handle is spelled differently.
+  Find/replace "aiimallkhann" if your GitHub handle is spelled differently.
 ============================================================= -->
 
 <div align="center">
@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aimal%20Khan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20accessible%20AI&descAlignY=58&descSize=20" alt="Aimal Khan banner" width="100%" />
 
 <!-- Typing animation -->
-<a href="https://github.com/aimallkhann">
+<a href="https://github.com/aiimallkhann">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&height=40&lines=CS+Student+%E2%86%92+Machine+Learning+Engineer;Building+Accessible+AI;Local-first+RAG+with+Ollama;Turning+Data+into+Impact" alt="Typing animation" />
 </a>
 
@@ -19,10 +19,10 @@
 
 <!-- Live badges -->
 <a href="https://www.linkedin.com/in/aimal-khan-96a4b1375/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:aimallkhann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://img.shields.io/github/followers/aimallkhann?style=for-the-badge&logo=github&label=Followers&color=8B5CF6&labelColor=0D1117" alt="GitHub followers" />
-<img src="https://komarev.com/ghpvc/?username=aimallkhann&label=Profile%20views&color=22D3EE&labelColor=0D1117&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/last-commit/aimallkhann/aimallkhann?style=for-the-badge&label=Profile%20updated&color=8B5CF6&labelColor=0D1117" alt="Profile last updated" />
+<a href="mailto:aiimallkhann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/github/followers/aiimallkhann?style=for-the-badge&logo=github&label=Followers&color=8B5CF6&labelColor=0D1117" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=aiimallkhann&label=Profile%20views&color=22D3EE&labelColor=0D1117&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/last-commit/aiimallkhann/aiimallkhann?style=for-the-badge&label=Profile%20updated&color=8B5CF6&labelColor=0D1117" alt="Profile last updated" />
 
 <br/><br/>
 
@@ -35,7 +35,7 @@
 ## 👋 About me
 
 - 🎓 Computer Science student on a self-directed path to **ML engineering**
-- 🔭 Currently building **[Atlas](https://github.com/aimallkhann/atlas)**, a local-first document search and question-answering pipeline
+- 🔭 Currently building **[Atlas](https://github.com/aiimallkhann/atlas)**, a local-first document search and question-answering pipeline
 - 🌱 Working through ML fundamentals one project at a time
 - 🎯 Goal: build AI tools that real people can actually use
 
@@ -55,10 +55,10 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://img.shields.io/github/last-commit/aimallkhann/atlas?style=flat-square&label=last%20commit&color=8B5CF6&labelColor=0D1117" alt="Atlas last commit" />
-<img src="https://img.shields.io/github/languages/top/aimallkhann/atlas?style=flat-square&color=22D3EE&labelColor=0D1117" alt="Atlas top language" />
-<img src="https://img.shields.io/github/repo-size/aimallkhann/atlas?style=flat-square&color=8B5CF6&labelColor=0D1117" alt="Atlas repo size" />
-<img src="https://img.shields.io/github/stars/aimallkhann/atlas?style=flat-square&color=22D3EE&labelColor=0D1117" alt="Atlas stars" />
+<img src="https://img.shields.io/github/last-commit/aiimallkhann/atlas?style=flat-square&label=last%20commit&color=8B5CF6&labelColor=0D1117" alt="Atlas last commit" />
+<img src="https://img.shields.io/github/languages/top/aiimallkhann/atlas?style=flat-square&color=22D3EE&labelColor=0D1117" alt="Atlas top language" />
+<img src="https://img.shields.io/github/repo-size/aiimallkhann/atlas?style=flat-square&color=8B5CF6&labelColor=0D1117" alt="Atlas repo size" />
+<img src="https://img.shields.io/github/stars/aiimallkhann/atlas?style=flat-square&color=22D3EE&labelColor=0D1117" alt="Atlas stars" />
 
 </div>
 
@@ -112,9 +112,9 @@ flowchart LR
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimallkhann/aimallkhann/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimallkhann/aimallkhann/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aimallkhann/aimallkhann/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiimallkhann/aiimallkhann/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiimallkhann/aiimallkhann/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aiimallkhann/aiimallkhann/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -126,7 +126,7 @@ flowchart LR
 
 I'm happy to talk about ML, open projects, and ways to make AI more accessible.
 
-<a href="https://www.linkedin.com/in/aimal-khan-96a4b1375/">LinkedIn</a> &nbsp;•&nbsp; <a href="mailto:aimallkhann@gmail.com">Email</a>
+<a href="https://www.linkedin.com/in/aimal-khan-96a4b1375/">LinkedIn</a> &nbsp;•&nbsp; <a href="mailto:aiimallkhann@gmail.com">Email</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" width="100%" />
 
