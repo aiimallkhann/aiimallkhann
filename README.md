@@ -1,75 +1,135 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Waving" width="50" />
-  <h1>Hi there, I'm Aimal Khan</h1>
+<!-- ============================================================
+  Profile README for github.com/aimallkhann/aimallkhann
+  Everything below is generated live: each image is fetched fresh
+  from a service (or from your own GitHub Action) when the page loads.
+  Find/replace "aimallkhann" if your GitHub handle is spelled differently.
+============================================================= -->
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Building+Accessible+AI;Transforming+Data+into+Impact" alt="Typing SVG" />
-  </a>
+<div align="center">
+
+<!-- Animated waving header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aimal%20Khan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20accessible%20AI&descAlignY=58&descSize=20" alt="Aimal Khan banner" width="100%" />
+
+<!-- Typing animation -->
+<a href="https://github.com/aimallkhann">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&height=40&lines=CS+Student+%E2%86%92+Machine+Learning+Engineer;Building+Accessible+AI;Local-first+RAG+with+Ollama;Turning+Data+into+Impact" alt="Typing animation" />
+</a>
+
+<br/>
+
+<!-- Live badges -->
+<a href="https://www.linkedin.com/in/aimal-khan-96a4b1375/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:aimallkhann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/github/followers/aimallkhann?style=for-the-badge&logo=github&label=Followers&color=8B5CF6&labelColor=0D1117" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=aimallkhann&label=Profile%20views&color=22D3EE&labelColor=0D1117&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/last-commit/aimallkhann/aimallkhann?style=for-the-badge&label=Profile%20updated&color=8B5CF6&labelColor=0D1117" alt="Profile last updated" />
+
+<br/><br/>
+
+> *“I believe in building technology with one focus: making powerful tools accessible to people. Not necessarily free, but fundamentally accessible.”*
+
 </div>
 
-<br>
+---
+
+## 👋 About me
+
+- 🎓 Computer Science student on a self-directed path to **ML engineering**
+- 🔭 Currently building **[Atlas](https://github.com/aimallkhann/atlas)**, a local-first document search and question-answering pipeline
+- 🌱 Working through ML fundamentals one project at a time
+- 🎯 Goal: build AI tools that real people can actually use
+
+---
+
+## 🚀 Featured project: Atlas
+
+A small RAG pipeline that runs entirely on a local machine: it reads your text files, finds the most relevant passages with embeddings and cosine similarity, and has a local Llama 3 answer **only** from those passages.
+
+```mermaid
+flowchart LR
+    A["📄 .txt files"] --> B["✂️ Chunk"]
+    B --> C["🧮 Embed<br/>nomic-embed-text"]
+    C --> D["🔎 Cosine<br/>similarity search"]
+    D --> E["🦙 Llama 3<br/>grounded answer"]
+```
 
 <div align="center">
-  <blockquote>
-    <p><em>"I believe in building technology with a singular focus: making powerful tools accessible to people. Not free, not always free—just fundamentally accessible."</em></p>
-  </blockquote>
+
+<img src="https://img.shields.io/github/last-commit/aimallkhann/atlas?style=flat-square&label=last%20commit&color=8B5CF6&labelColor=0D1117" alt="Atlas last commit" />
+<img src="https://img.shields.io/github/languages/top/aimallkhann/atlas?style=flat-square&color=22D3EE&labelColor=0D1117" alt="Atlas top language" />
+<img src="https://img.shields.io/github/repo-size/aimallkhann/atlas?style=flat-square&color=8B5CF6&labelColor=0D1117" alt="Atlas repo size" />
+<img src="https://img.shields.io/github/stars/aimallkhann/atlas?style=flat-square&color=22D3EE&labelColor=0D1117" alt="Atlas stars" />
+
 </div>
 
-<br>
+---
+
+## ⚙️ Tech stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/aimal-khan-96a4b1375/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aiimallkhann@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="42" alt="C++" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="42" alt="TensorFlow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="scikit-learn" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/E70488" height="42" alt="Pandas" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="42" alt="NumPy" />
+  <br/><br/>
+  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="42" alt="SciPy" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="42" alt="Jupyter" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="42" alt="Arch Linux" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05033" height="42" alt="Git" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/8B949E" height="42" alt="GitHub" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/0078D4" height="42" alt="VS Code" />
 </div>
 
-<br><br>
+---
 
-## ⚙️ Tech Stack & Tools
+## 📊 Live GitHub analytics
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="PyTorch" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="TensorFlow" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="Scikit-Learn" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/white" height="45" alt="Pandas" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="45" alt="NumPy" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" height="45" alt="SciPy" />
-  <br><br>
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="45" alt="Jupyter" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/0078D4" height="45" alt="VS Code" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05033" height="45" alt="Git" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/white" height="45" alt="GitHub" />
+
+<table>
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=aimallkhann&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&ring_color=8B5CF6" alt="GitHub stats" />
+    </td>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimallkhann&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=aimallkhann&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aimallkhann&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="95%" />
+
 </div>
 
-<br><br>
+---
 
-
-## 📈 GitHub Analytics
+## 🐍 Contribution snake
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiimallkhann&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Aimal's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiimallkhann&theme=radical&hide_border=true&background=0D1117" alt="Aimal's Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiimallkhann&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimallkhann/aimallkhann/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimallkhann/aimallkhann/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/aimallkhann/aimallkhann/output/github-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
-<br>
+---
+
+## 📫 Let's connect
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+I'm happy to talk about ML, open projects, and ways to make AI more accessible.
+
+<a href="https://www.linkedin.com/in/aimal-khan-96a4b1375/">LinkedIn</a> &nbsp;•&nbsp; <a href="mailto:aimallkhann@gmail.com">Email</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" width="100%" />
+
 </div>
