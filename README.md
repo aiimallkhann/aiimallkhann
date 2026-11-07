@@ -41,29 +41,6 @@
 
 ---
 
-## 🚀 Featured project: Atlas
-
-A small RAG pipeline that runs entirely on a local machine: it reads your text files, finds the most relevant passages with embeddings and cosine similarity, and has a local Llama 3 answer **only** from those passages.
-
-```mermaid
-flowchart LR
-    A["📄 .txt files"] --> B["✂️ Chunk"]
-    B --> C["🧮 Embed<br/>nomic-embed-text"]
-    C --> D["🔎 Cosine<br/>similarity search"]
-    D --> E["🦙 Llama 3<br/>grounded answer"]
-```
-
-<div align="center">
-
-<img src="https://img.shields.io/github/last-commit/aiimallkhann/atlas?style=flat-square&label=last%20commit&color=8B5CF6&labelColor=0D1117" alt="Atlas last commit" />
-<img src="https://img.shields.io/github/languages/top/aiimallkhann/atlas?style=flat-square&color=22D3EE&labelColor=0D1117" alt="Atlas top language" />
-<img src="https://img.shields.io/github/repo-size/aiimallkhann/atlas?style=flat-square&color=8B5CF6&labelColor=0D1117" alt="Atlas repo size" />
-<img src="https://img.shields.io/github/stars/aiimallkhann/atlas?style=flat-square&color=22D3EE&labelColor=0D1117" alt="Atlas stars" />
-
-</div>
-
----
-
 ## ⚙️ Tech stack
 
 <div align="center">
