@@ -34,10 +34,9 @@
 
 ## 👋 About me
 
-- 🎓 Computer Science student on a self-directed path to **ML engineering**
-- 🔭 Currently building **[Atlas](https://github.com/aiimallkhann/atlas)**, a local-first document search and question-answering pipeline
-- 🌱 Working through ML fundamentals one project at a time
-- 🎯 Goal: build AI tools that real people can actually use
+- Computer Science student on a self-directed path to **ML engineering**
+- Working through ML fundamentals one project at a time
+- Goal: build AI tools that real people can actually use
 
 ---
 
@@ -47,7 +46,6 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" height="42" alt="Python" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="42" alt="C++" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="42" alt="PyTorch" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="42" alt="TensorFlow" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="42" alt="scikit-learn" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/pandas/E70488" height="42" alt="Pandas" />&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="42" alt="NumPy" />
